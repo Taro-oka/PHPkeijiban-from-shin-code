@@ -80,7 +80,7 @@
         </form>
     </div>
     <script>
-        alert("aa");
+        alert("JavaScriptです");
     </script>
 </body>
 </html>
